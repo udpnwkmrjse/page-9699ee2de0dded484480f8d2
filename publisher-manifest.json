@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "7d0bc6fe7ed7dcf24663047a",
+  "owner": "udpnwkmrjse",
+  "repo": "page-9699ee2de0dded484480f8d2",
+  "title": "DLK",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9699ee2de0dded484480f8d2",
+      "a": "DLK",
+      "b": "ClashX官方下载",
+      "entity": "DLK",
+      "brand": "DLK",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e63290aae651a545ceea6c059b38a2ee9b2ccf06cc541c578fa94fcd3893334e",
+      "content": {
+        "primary_entity": "DLK",
+        "keyword1": "DLK",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_DESCRIPTION": "，DLK 提供三档订阅方案，覆盖从个人轻量到团队多设备的使用场景。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB、支持 5 台设备，并配有 IPLC 专线优化；团队版每月 1000GB、支持 20 台设备，满足多端协同。选择时先确认日常设备数量与流量消耗，再按年付或月付配置订阅。",
+          "AI_HERO_SUBTITLE": "按设备与流量挑选合适订阅",
+          "AI_HERO_INTRO": "DLK 面向需要跨设备稳定连接的用户，提供基础版、旗舰版与团队版三档套餐。每档方案明确流量额度、在线设备数量与节点特性，方便根据手机、电脑或团队环境选择。订阅后依照对应客户端的配置文档导入使用。",
+          "AI_VISUAL_TITLE": "DLK 订阅方案一览",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元含 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版支持 5 台设备与专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备 1000GB 流量",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度比较 DLK 套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选档位",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按同时在线的手机与电脑数量匹配方案。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "轻度使用月付 100GB 档位，重度或多设备可选 300GB 或 1000GB，年付更合算。",
+          "AI_FEATURE_TITLE_3": "按场景调节点",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线优化，团队版可定制路由，游戏或多人协作按需选择。",
+          "AI_CLIENTS_TITLE": "设备端客户端参考",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，订阅配置前先确认设备平台与所支持的导入方式。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比基础版、旗舰版与团队版的月付价、年付价、流量和在线设备数，按实际用量选择。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_GUIDE_INTRO": "先选套餐，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，从基础版、旗舰版或团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查适配",
+          "AI_STEP_TEXT_2": "确认手机或电脑系统对应的客户端版本，核对订阅导入所需格式。",
+          "AI_STEP_TITLE_3": "导订阅",
+          "AI_STEP_TEXT_3": "打开所选客户端，依照其文档提示粘贴或导入订阅信息，完成后即可使用。",
+          "AI_CLOSING_TITLE": "按需选档轻松配置",
+          "AI_CLOSING_TEXT": "结合设备数量与流量挑好 DLK 套餐，随后按客户端文档完成订阅导入。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。流量与设备数可按需升级。",
+          "AI_FAQ_ANSWER_2": "旗舰版和团队版可解锁原生流媒体，基础版提供基础流媒体解锁。不同节点线路覆盖范围不同，订阅后可在客户端内切换节点进行测试。",
+          "AI_FAQ_ANSWER_3": "支持 Windows、macOS、iOS、Android 等常见客户端。安装后导入订阅地址即可使用，订阅导入方式和配置步骤可参考各客户端文档。",
+          "AI_FAQ_ANSWER_4": "月付适合短期体验，年付折算后更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用建议按年付。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由与专属客户经理服务，适合多设备协作和统一管理需求。可根据实际设备数量与带宽要求选择对应节点。",
+          "AI_FAQ_QUESTION_1": "DLK 三档套餐有哪些区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁支持哪些节点？",
+          "AI_FAQ_QUESTION_3": "客户端支持哪些平台？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选择？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么情况使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "78dea8900cd23db671d058e03201b396d6c350977a2cb337c5973c48ae263a83",
+    "sitemap.xml": "26772ab51e926e0bf81a0f2dc09c69d3bff4e19078cec623abd09787b480e4d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "df3f6863a7b56bfdd0a6d08d64264354735e114c9f5aac038ea168312c8f812e"
+}
